@@ -1,0 +1,30 @@
+{
+ //details
+
+ "type" : "GenericCrafter",
+ "name" : "EJHydrogenAirPump",
+ "description" : "Free Hydrogen",
+
+ //campaign
+
+ "requirements" : [],
+ "category" : "liquid",
+ "research" : "hydrogen",
+ 
+ //specs
+
+ "size" : 2,
+ "health" : 10000,
+
+ "hasItems" : false,
+ "hasLiquids" : true,
+ "liquidCapacity" : 2000000,
+
+ "outputLiquid" : hydrogen / 100 ,
+
+ "unitCapModifier" : 1,
+ "absorbLasers" : true,
+ "chanceDeflect" : 1000,
+ "armor" : 1500,
+
+}

@@ -1,0 +1,30 @@
+{
+ //details
+
+ "type": "GenericCrafter",
+ "name": "EJZDrillBeryllium",
+ "description" : "Free Beryllium",
+
+ //campaign
+
+ "requirements":[],
+ "category": "logic",
+ "research" : "beryllium",
+ 
+ //specs
+
+ "size" : 2,
+ "health" : 10000,
+ 
+ "hasLiquids":false,
+ "itemCapacity": 2000000,
+ 
+ "craftTime":10,
+ "outputItems": ["beryllium/100"],
+
+ "unitCapModifier" : 1,
+ "absorbLasers" : true,
+ "chanceDeflect" : 1000,
+ "armor" : 1500,
+
+}

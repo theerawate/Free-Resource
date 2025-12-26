@@ -1,0 +1,30 @@
+{
+ //details
+
+ "type" : "GenericCrafter",
+ "name" : "EJArkyciteAirPump",
+ "description" : "Free Arkycite",
+
+ //campaign
+
+ "requirements" : [],
+ "category" : "liquid",
+ "research" : "arkycite",
+ 
+ //specs
+
+ "size" : 2,
+ "health" : 10000,
+
+ "hasItems" : false,
+ "hasLiquids" : true,
+ "liquidCapacity" : 2000000,
+
+ "outputLiquid" : arkycite / 100 ,
+
+ "unitCapModifier" : 1,
+ "absorbLasers" : true,
+ "chanceDeflect" : 1000,
+ "armor" : 1500,
+
+}
