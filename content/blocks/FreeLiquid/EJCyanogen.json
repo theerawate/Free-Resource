@@ -1,0 +1,30 @@
+{
+ //details
+
+ "type" : "GenericCrafter",
+ "name" : "EJCyanogen",
+ "description" : "Free Cyanogen",
+
+ //campaign
+
+ "requirements" : [],
+ "category" : "liquid",
+ "research" : "EJOzone",
+ 
+ //specs
+
+ "size" : 1,
+ "health" : 10000,
+
+ "hasItems" : false,
+ "hasLiquids" : true,
+ "liquidCapacity" : 2000000,
+
+ "outputLiquid" : cyanogen / 100 ,
+
+ "unitCapModifier" : 1,
+ "absorbLasers" : true,
+ "chanceDeflect" : 1000,
+ "armor" : 1500,
+
+}

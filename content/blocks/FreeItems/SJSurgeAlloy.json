@@ -1,0 +1,30 @@
+{
+ //details
+
+ "type": "GenericCrafter",
+ "name": "SJSurgeAlloy",
+ "description" : "Free Surge Alloy",
+
+ //campaign
+
+ "requirements":[],
+ "category": "logic",
+ "research" : "SJPhaseFabric",
+ 
+ //specs
+
+ "size" : 1,
+ "health" : 10000,
+ 
+ "hasLiquids":false,
+ "itemCapacity": 2000000,
+ 
+ "craftTime":10,
+ "outputItems": ["surge-alloy/100"],
+
+ "unitCapModifier" : 1,
+ "absorbLasers" : true,
+ "chanceDeflect" : 1000,
+ "armor" : 1500,
+
+}

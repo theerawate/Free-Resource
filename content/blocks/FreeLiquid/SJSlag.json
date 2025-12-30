@@ -1,0 +1,30 @@
+{
+ //details
+
+ "type" : "GenericCrafter",
+ "name" : "SJSlag",
+ "description" : "Free Slag",
+
+ //campaign
+
+ "requirements" : [],
+ "category" : "liquid",
+ "research" : "SJWater",
+ 
+ //specs
+
+ "size" : 1,
+ "health" : 10000,
+
+ "hasItems" : false,
+ "hasLiquids" : true,
+ "liquidCapacity" : 2000000,
+
+ "outputLiquid" : slag / 100 ,
+
+ "unitCapModifier" : 1,
+ "absorbLasers" : true,
+ "chanceDeflect" : 1000,
+ "armor" : 1500,
+
+}

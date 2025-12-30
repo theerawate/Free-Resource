@@ -1,0 +1,30 @@
+{
+ //details
+
+ "type" : "GenericCrafter",
+ "name" : "EJNeoplasm",
+ "description" : "Free Neoplasm",
+
+ //campaign
+
+ "requirements" : [],
+ "category" : "liquid",
+ "research" : "EJNitrogen",
+ 
+ //specs
+
+ "size" : 1,
+ "health" : 10000,
+
+ "hasItems" : false,
+ "hasLiquids" : true,
+ "liquidCapacity" : 2000000,
+
+ "outputLiquid" : neoplasm / 100 ,
+
+ "unitCapModifier" : 1,
+ "absorbLasers" : true,
+ "chanceDeflect" : 1000,
+ "armor" : 1500,
+
+}

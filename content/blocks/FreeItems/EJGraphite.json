@@ -1,0 +1,30 @@
+{
+ //details
+
+ "type": "GenericCrafter",
+ "name": "EJGraphite",
+ "description" : "Free Graphite",
+
+ //campaign
+
+ "requirements":[],
+ "category": "logic",
+ "research" : "EJCarbide",
+ 
+ //specs
+
+ "size" : 1,
+ "health" : 10000,
+ 
+ "hasLiquids":false,
+ "itemCapacity": 2000000,
+ 
+ "craftTime":10,
+ "outputItems": ["graphite/100"],
+
+ "unitCapModifier" : 1,
+ "absorbLasers" : true,
+ "chanceDeflect" : 1000,
+ "armor" : 1500,
+
+}
