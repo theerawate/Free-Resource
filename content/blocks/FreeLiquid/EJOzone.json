@@ -22,7 +22,7 @@
 
  "outputLiquid" : ozone / 100 ,
 
- "unitCapModifier" : 1,
+ "unitCapModifier" : -10,
  "absorbLasers" : true,
  "chanceDeflect" : 1000,
  "armor" : 1500,
